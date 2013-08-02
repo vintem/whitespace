@@ -2,13 +2,13 @@ Whitespace
 ==========
 Whitespace is a minimal and responsive theme for [Octopress](http://octopress.org). This theme let your contents take the center stage of your blog.
 
-Check out the theme in action [here](http://lucaslew.com).
+Check out the theme in action [here](http://en.templecoding.com).
 
 
 Install
 -------
     $ cd octopress
-    $ git clone git://github.com/lucaslew/whitespace.git .themes/whitespace
+    $ git clone git://github.com/vintem/whitespace.git .themes/whitespace
     $ rake install['whitespace']
     $ rake generate
 
